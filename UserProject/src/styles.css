@@ -334,7 +334,7 @@ button {
 /* Landing Page */
 .landing {
   position: relative;
-  background: url("/assets/img/dashboard.png") no-repeat center;
+  background: url("assets/img/dashboard.jpg") no-repeat center;
   background-size: cover;
   height: 100vh;
 }
