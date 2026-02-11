@@ -46,7 +46,7 @@ npm install
 
 **3️⃣ Start development server:**
 ```bash
-ng serve
+npx ng serve
 ```
 
 **4️⃣ Open in browser:**
