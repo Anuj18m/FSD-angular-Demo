@@ -19,7 +19,6 @@ import { ProfilesModule } from './profiles/profiles.module';
     CoreModule,
     SharedModule,
     DashboardModule,
-    AuthModule,
     ProfilesModule
   ],
   providers: [],
